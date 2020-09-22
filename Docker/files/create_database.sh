@@ -14,3 +14,4 @@ done
 mysql  -uadmin -p${MYSQL_ADMIN_PASS}  < /data/world.sql
 mysql  -uadmin -p${MYSQL_ADMIN_PASS}  < /data/sakila-schema.sql
 mysql  -uadmin -p${MYSQL_ADMIN_PASS}  < /data/sakila-data.sql
+mysql  -uadmin -p${MYSQL_ADMIN_PASS}  < /data/imdb.sql

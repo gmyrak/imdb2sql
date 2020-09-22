@@ -1,7 +1,7 @@
 FROM mattrayner/lamp
 
 RUN apt-get -y install mc && echo SELECTED_EDITOR="/usr/bin/mcedit" > /root/.selected_editor
-RUN mkdir /www && mkdir /www/db.gmda.ru && mkdir /data && mkdir /host
+RUN mkdir /www && mkdir /www/db.gmda.ru && mkdir /data && mkdir /host && chmod -R 777 /var/lib/mysql-files
 COPY files/index.html /www/db.gmda.ru
 COPY files/db.gmda.ru.conf /etc/apache2/sites-available
 COPY files/dgmyrak-ws.conf /etc/apache2/sites-available

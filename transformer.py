@@ -5,7 +5,7 @@ class Writer:
         #self.aof = fields.keys()
         self.storage = open(file, 'w', encoding='utf-8')
         self.active = True
-        self.storage.write('\t'.join(self.fields) + '\n')
+        #self.storage.write('\t'.join(self.fields) + '\n')
 
     def close(self):
         self.storage.close()
@@ -13,7 +13,7 @@ class Writer:
 
     def insert(self, item):
         if self.active:
-            self.storage.write('\t'.join([item.get(f, '') for f in self.fields]) + '\n')
+            self.storage.write('\t'.join([str(item.get(f, '')) for f in self.fields]) + '\n')
         else:
             raise('Table is closed')
 
@@ -29,6 +29,8 @@ class Reader:
             values = self.split(line)
             item = {}
             for i in range(len(self.columns)):
+                value = values[i]
+                #item[self.columns[i]] = (values[i] if values[i] != '\\N' else '')
                 item[self.columns[i]] = values[i]
             return item
         else:
