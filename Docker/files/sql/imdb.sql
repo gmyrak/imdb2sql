@@ -1,5 +1,5 @@
+drop database if exists `imdb`;
 CREATE DATABASE `imdb` DEFAULT COLLATE utf8mb4_unicode_ci;
-
 USE `imdb`;
 
 create table genres
@@ -35,3 +35,19 @@ create table title
         foreign key (type) references types (id)
 );
 
+create table title_genres
+(
+    title_id varchar(10) not null,
+    genre_id int         not null,
+    primary key (title_id, genre_id),
+    constraint title_genres_genres_id_fk
+        foreign key (genre_id) references genres (id),
+    constraint title_genres_title_id_fk
+        foreign key (title_id) references title (id)
+);
+
+
+load data infile '/var/lib/mysql-files/types.tsv' into table types;
+load data infile '/var/lib/mysql-files/genres.tsv' into table genres;
+load data infile '/var/lib/mysql-files/title.tsv' into table title;
+load data infile '/var/lib/mysql-files/title_genres.tsv' into table title_genres;

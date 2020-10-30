@@ -1,0 +1,15 @@
+<spml:modifyRequest language="en_us" requestID="4496da03:1712b67501a:-6b6b" xmlns:spml=
+        "urn:siemens:names:prov:gw:SPML:2:0" xmlns:subscriber="urn:siemens:names:prov:gw:SUBSCRIBER:1:0">
+    <version xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">SUBSCRIBER_v10</version>
+    <objectclass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Subscriber</objectclass>
+    <identifier alias="identifier" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:type="subscriber:SubscriberIdentifier">1111111111
+    </identifier>
+
+    <modification name="hlr/smsSubData" operation="setoradd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <valueObject xsi:type="subscriber:HlrSmsSubData">
+
+            <refPriorityListName>PL1</refPriorityListName>
+        </valueObject>
+    </modification>
+</spml:modifyRequest>

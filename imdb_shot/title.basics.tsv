@@ -927,3 +927,276 @@ tt0000934	short	Leather Stocking	Leather Stocking	0	1909	\N	11	Adventure,Short
 tt0000935	short	The Light That Came	The Light That Came	0	1909	\N	11	Drama,Short
 tt0000936	short	Lines of White on a Sullen Sea	Lines of White on a Sullen Sea	0	1909	\N	11	Drama,Short
 tt0000938	short	The Little Darling	The Little Darling	0	1909	\N	2	Comedy,Short
+tt0041938	short	Swallow the Leader	Swallow the Leader	0	1949	\N	7	Animation,Comedy,Family
+tt0041939	movie	Four Days Leave	Swiss Tour	0	1950	\N	79	Drama
+tt0041940	movie	Sword in the Desert	Sword in the Desert	0	1949	\N	101	Action,Drama,History
+tt0041942	movie	Só Tem Varíola Quem Quer	Só Tem Varíola Quem Quer	0	1949	\N	8	Documentary
+tt0041943	movie	El sótano	El sótano	0	1949	\N	114	Drama
+tt0041944	movie	Take Me Out to the Ball Game	Take Me Out to the Ball Game	0	1949	\N	93	Comedy,Musical,Romance
+tt0041945	movie	Take One False Step	Take One False Step	0	1949	\N	94	Crime,Drama,Film-Noir
+tt0041946	movie	Tale of the Navajos	Tale of the Navajos	0	1949	\N	52	Documentary
+tt0041947	movie	Tarzan's Magic Fountain	Tarzan's Magic Fountain	0	1949	\N	73	Action,Adventure,Fantasy
+tt0041948	movie	Task Force	Task Force	0	1949	\N	116	Drama,War
+tt0041949	movie	Tell It to the Judge	Tell It to the Judge	0	1949	\N	87	Comedy,Romance
+tt0041950	movie	Tempestad en el alma	Tempestad en el alma	0	1950	\N	95	\N
+tt0041951	tvEpisode	The Tenderfeet	The Tenderfeet	0	1949	\N	30	Western
+tt0041952	short	Tennis Chumps	Tennis Chumps	0	1949	\N	7	Animation,Comedy,Family
+tt0041953	short	Tennis Racquet	Tennis Racquet	0	1949	\N	7	Animation,Comedy,Family
+tt0041954	movie	Tension	Tension	0	1949	\N	95	Crime,Drama,Film-Noir
+tt0041955	movie	That Forsyte Woman	That Forsyte Woman	0	1949	\N	113	Drama,Romance
+tt0041956	movie	That Midnight Kiss	That Midnight Kiss	0	1949	\N	96	Musical,Romance
+tt0041957	movie	There's a Girl in My Heart	There's a Girl in My Heart	0	1949	\N	79	Comedy,Musical,Romance
+tt0041958	movie	Thieves' Highway	Thieves' Highway	0	1949	\N	94	Drama,Film-Noir,Thriller
+tt0041959	movie	The Third Man	The Third Man	0	1949	\N	104	Film-Noir,Mystery,Thriller
+tt0041960	movie	This Farming Business	This Farming Business	0	1949	\N	\N	Documentary
+tt0041961	short	Thorvaldsen	Thorvaldsen	0	1949	\N	10	Documentary,Short
+tt0041962	short	Those Good Old Days	Those Good Old Days	0	1949	\N	10	Comedy,Short
+tt0041963	movie	The Threat	The Threat	0	1949	\N	66	Crime,Drama,Film-Noir
+tt0041964	movie	Three Bags Full	Three Bags Full	0	1949	\N	57	\N
+tt0041965	movie	La tienda de antigüedades	La tienda de antigüedades	0	1949	\N	99	Drama
+tt0041966	short	Tim og Tøffe	Tim og Tøffe	0	1949	\N	9	Adventure,Animation,Family
+tt0041967	movie	Tokyo Joe	Tokyo Joe	0	1949	\N	88	Crime,Drama,Film-Noir
+tt0041968	movie	Too Late for Tears	Too Late for Tears	0	1949	\N	99	Crime,Drama,Film-Noir
+tt0041969	movie	Top o' the Morning	Top o' the Morning	0	1949	\N	100	Comedy,Romance
+tt0041971	movie	The Torch	The Torch	0	1950	\N	83	Action,Adventure,Comedy
+tt0041972	short	El torero	El torero	0	1949	\N	15	Short
+tt0041973	movie	Torna a Napoli	Torna a Napoli	0	1949	\N	\N	Drama
+tt0041974	movie	Totò cerca casa	Totò cerca casa	0	1949	\N	79	Comedy
+tt0041975	movie	Totò le mokò	Totò le mokò	0	1949	\N	81	Comedy
+tt0041976	movie	Tough Assignment	Tough Assignment	0	1949	\N	64	Action,Adventure,Crime
+tt0041977	movie	All Roads Lead to Rome	Tous les chemins mènent à Rome	0	1949	\N	89	Comedy
+tt0041978	short	Toy Tinkers	Toy Tinkers	0	1949	\N	7	Animation,Comedy,Family
+tt0041979	movie	Double Cross	Il tradimento	0	1951	\N	85	Crime,Drama
+tt0041980	movie	Tragödie einer Leidenschaft	Tragödie einer Leidenschaft	0	1949	\N	90	Crime,Drama,Romance
+tt0041981	movie	Trail of the Yukon	Trail of the Yukon	0	1949	\N	67	Adventure,Romance,Western
+tt0041982	movie	Train of Events	Train of Events	0	1949	\N	88	Drama
+tt0041983	movie	Trapped	Trapped	0	1949	\N	78	Crime,Drama,Film-Noir
+tt0041984	movie	Trapped by the Terror	Trapped by the Terror	0	1949	\N	\N	\N
+tt0041985	movie	Traveller's Joy	Traveller's Joy	0	1950	\N	78	Comedy
+tt0041986	movie	Treasure of Monte Cristo	Treasure of Monte Cristo	0	1949	\N	76	Crime,Drama,Film-Noir
+tt0041988	movie	Tromba	Tromba	0	1949	\N	96	Crime,Drama
+tt0041989	movie	The Gay Lady	Trottie True	0	1949	\N	96	Comedy,Music,Romance
+tt0041990	movie	Trouble Preferred	Trouble Preferred	0	1948	\N	63	Action,Adventure,Crime
+tt0041991	movie	Il trovatore	Il trovatore	0	1949	\N	111	Musical
+tt0041992	movie	Träum' nicht, Annette	Träum' nicht, Annette	0	1949	\N	115	Comedy
+tt0041993	movie	Le trésor des Pieds-Nickelés	Le trésor des Pieds-Nickelés	0	1950	\N	\N	Comedy
+tt0041994	movie	Tulsa	Tulsa	0	1949	\N	90	Action,Drama,Romance
+tt0041995	movie	Tuna Clipper	Tuna Clipper	0	1949	\N	77	Drama
+tt0041996	movie	Twelve O'Clock High	Twelve O'Clock High	0	1949	\N	132	Drama,War
+tt0041997	movie	Twilight in the Sierras	Twilight in the Sierras	0	1950	\N	67	Action,Adventure,Music
+tt0041998	movie	Thirst	Törst	0	1949	\N	83	Drama
+tt0041999	movie	Border Street	Ulica Graniczna	0	1948	\N	115	Drama,War
+tt0042000	movie	Um eine Nasenlänge	Um eine Nasenlänge	0	1949	\N	101	\N
+tt0042001	movie	A Certain Mister	Un certain monsieur	0	1950	\N	90	Crime
+tt0042002	movie	A Man and His Sin	Un homme et son péché	0	1949	\N	112	Drama
+tt0042003	movie	A Man Walks in the City	Un homme marche dans la ville	0	1950	\N	95	Drama
+tt0042004	movie	Under Capricorn	Under Capricorn	0	1949	\N	117	Crime,Drama,Romance
+tt0042005	movie	Under My Skin	Under My Skin	0	1950	\N	86	Drama,Sport,Thriller
+tt0042006	movie	The Undercover Man	The Undercover Man	0	1949	\N	85	Crime,Drama,Film-Noir
+tt0042007	movie	Undertow	Undertow	0	1949	\N	71	Crime,Drama,Film-Noir
+tt0042008	movie	Our Daily Bread	Unser täglich Brot	0	1949	\N	104	Drama
+tt0042009	short	Unusual Occupations	Unusual Occupations	0	1949	\N	10	Documentary,Short
+tt0042010	movie	Úri muri	Úri muri	0	1950	\N	101	Drama
+tt0042011	movie	Utsukushiki batsu	Utsukushiki batsu	0	1949	\N	\N	Drama
+tt0042012	short	Vagabond Loafers	Vagabond Loafers	0	1949	\N	16	Comedy,Short
+tt0042013	movie	Paris Waltz	La valse de Paris	0	1950	\N	92	Comedy,Musical
+tt0042014	short	Variazioni sinfoniche	Variazioni sinfoniche	0	1949	\N	14	Documentary,Short
+tt0042015	short	Vaticano	Vaticano	0	1951	\N	\N	Documentary,Short
+tt0042016	movie	Vazhkai	Vazhkai	0	1949	\N	170	\N
+tt0042017	movie	Vendaval	Vendaval	0	1950	\N	95	\N
+tt0042018	movie	Vendaval Maravilhoso	Vendaval Maravilhoso	0	1949	\N	140	Biography,Drama,History
+tt0042019	movie	Vento d'Africa	Vento d'Africa	0	1949	\N	\N	\N
+tt0042020	movie	Verspieltes Leben	Verspieltes Leben	0	1949	\N	85	\N
+tt0042021	movie	Sicilian Uprising	Vespro siciliano	0	1949	\N	91	Drama
+tt0042022	short	Vestigios romanos	Vestigios romanos	0	1949	\N	12	Short
+tt0042023	movie	Vi flyger på Rio	Vi flyger på Rio	0	1949	\N	100	Drama
+tt0042024	movie	Vidalita	Vidalita	0	1949	\N	95	Comedy,Family,Musical
+tt0042025	movie	Just Out	Vient de paraître	0	1949	\N	97	Drama,Romance
+tt0042026	movie	Vivere a sbafo	Vivere a sbafo	0	1949	\N	\N	\N
+tt0042027	movie	High Time	Vogliamoci bene!	0	1950	\N	88	Comedy
+tt0042028	movie	Vote for Huggett	Vote for Huggett	0	1949	\N	84	Comedy
+tt0042029	movie	Vstrecha na Elbe	Vstrecha na Elbe	0	1949	\N	104	War
+tt0042030	movie	Volcano	Vulcano	0	1950	\N	106	Drama
+tt0042031	movie	Flame of My Love	Waga koi wa moenu	0	1949	\N	96	Drama,Romance
+tt0042032	short	Wags to Riches	Wags to Riches	0	1949	\N	7	Animation,Comedy,Family
+tt0042033	movie	The Walking Hills	The Walking Hills	0	1949	\N	78	Adventure,Thriller,Western
+tt0042034	short	Water Trix	Water Trix	0	1949	\N	9	Short,Sport
+tt0042035	movie	We Were Strangers	We Were Strangers	0	1949	\N	106	Adventure,Drama,Romance
+tt0042036	movie	Wer bist du, den ich liebe?	Wer bist du, den ich liebe?	0	1950	\N	100	Comedy,Musical,Romance
+tt0042037	movie	Western Renegades	Western Renegades	0	1949	\N	59	Western
+tt0042038	short	Which Is Witch	Which Is Witch	0	1949	\N	7	Animation,Comedy,Family
+tt0042039	movie	Whirlpool	Whirlpool	0	1950	\N	98	Crime,Drama,Film-Noir
+tt0042040	movie	Whisky Galore!	Whisky Galore!	0	1949	\N	80	Comedy,Crime
+tt0042041	movie	White Heat	White Heat	0	1949	\N	114	Action,Crime,Drama
+tt0042042	short	Who Done It?	Who Done It?	0	1949	\N	16	Comedy,Crime,Horror
+tt0042043	movie	Young Girls of Vienna	Wiener Mädeln	0	1949	\N	109	Biography,Drama,Musical
+tt0042044	short	The Wind in the Willows	The Wind in the Willows	0	1949	\N	30	Animation,Comedy,Family
+tt0042045	short	The Windblown Hare	The Windblown Hare	0	1949	\N	7	Animation,Comedy,Family
+tt0042046	movie	The Window	The Window	0	1949	\N	73	Drama,Film-Noir,Thriller
+tt0042047	short	Winter Storage	Winter Storage	0	1949	\N	7	Animation,Comedy,Family
+tt0042048	short	Wise Quackers	Wise Quackers	0	1949	\N	7	Animation,Comedy,Family
+tt0042049	movie	Without Honor	Without Honor	0	1949	\N	69	Drama
+tt0042050	movie	The Wolf Hunters	The Wolf Hunters	0	1949	\N	70	Western
+tt0042051	movie	Woman Hater	Woman Hater	0	1948	\N	105	Comedy
+tt0042052	movie	Woman in Hiding	Woman in Hiding	0	1950	\N	92	Crime,Drama,Film-Noir
+tt0042053	movie	A Woman's Secret	A Woman's Secret	0	1949	\N	84	Drama,Film-Noir,Mystery
+tt0042054	movie	Crows and Sparrows	Wuya yu maque	0	1949	\N	113	Drama
+tt0042055	movie	The Wyoming Bandit	The Wyoming Bandit	0	1949	\N	60	Western
+tt0042056	movie	A Broken Drum	Yabure-daiko	0	1949	\N	108	Comedy,Drama
+tt0042057	movie	Yes Sir, That's My Baby	Yes Sir, That's My Baby	0	1949	\N	82	Comedy,Music,Sport
+tt0042058	movie	I'm Not Mata Hari	Yo no soy la Mata-Hari	0	1950	\N	110	Comedy
+tt0042059	movie	The Yotsuda Phantom	Yotsuya kaidan	0	1949	\N	85	Horror
+tt0042060	movie	You're My Everything	You're My Everything	0	1949	\N	94	Comedy,Musical
+tt0042061	movie	The Younger Brothers	The Younger Brothers	0	1949	\N	78	Western
+tt0042062	movie	Yvonne of the Night	Yvonne la Nuit	0	1949	\N	97	Drama
+tt0042063	movie	Za wami pójda inni...	Za wami pójda inni...	0	1949	\N	112	Drama,War
+tt0042064	movie	Zamba	Zamba	0	1949	\N	75	Action,Adventure,Drama
+tt0042065	movie	The Flag	Zastava	0	1949	\N	99	Drama,War
+tt0042067	movie	Åsa-Nisse	Åsa-Nisse	0	1949	\N	102	Comedy
+tt0042068	tvSeries	Abe Burrows' Almanac	Abe Burrows' Almanac	0	1950	\N	30	Comedy,Music,Talk-Show
+tt0042069	tvSeries	The Adventures of Ellery Queen	The Adventures of Ellery Queen	0	1950	1956	30	Crime,Drama,Mystery
+tt0042070	tvSeries	The Alan Young Show	The Alan Young Show	0	1950	1953	30	Comedy
+tt0042071	tvSeries	Alkali Ike	Alkali Ike	0	1950	\N	15	Comedy,Western
+tt0042072	tvSeries	American Forum of the Air	American Forum of the Air	0	1950	1952	30	Talk-Show
+tt0042073	tvSeries	Answer Yes or No	Answer Yes or No	0	1950	\N	30	Family,Game-Show
+tt0042074	tvSeries	Armstrong Circle Theatre	Armstrong Circle Theatre	0	1950	1963	60	Drama
+tt0042075	tvSeries	Around the Town	Around the Town	0	1950	\N	30	\N
+tt0042076	tvSeries	Art Ford on Broadway	Art Ford on Broadway	0	1950	\N	15	\N
+tt0042077	tvSeries	Arthur Godfrey and His Ukulele	Arthur Godfrey and His Ukulele	0	1950	\N	15	Music
+tt0042078	tvSeries	The Arthur Murray Party	The Arthur Murray Party	0	1950	1960	30	Family,Music
+tt0042079	tvSeries	Battle Report	Battle Report	0	1950	1952	30	Documentary,War
+tt0042080	tvSeries	Beat the Clock	Beat the Clock	0	1950	1961	30	Family,Game-Show
+tt0042081	tvSeries	Beulah	Beulah	0	1950	1953	30	Comedy
+tt0042082	tvSeries	Big Top	Big Top	0	1950	1957	60	Family
+tt0042083	tvSeries	Big Town	Big Town	0	1950	1956	30	Drama
+tt0042084	tvSeries	The Bigelow Theatre	The Bigelow Theatre	0	1950	1951	30	Drama,Family
+tt0042085	tvSeries	Billy Boone and Cousin Kib	Billy Boone and Cousin Kib	0	1950	\N	30	Family
+tt0042086	tvSeries	The Billy Rose Show	The Billy Rose Show	0	1950	1951	30	Drama
+tt0042087	tvSeries	By Popular Demand	By Popular Demand	0	1950	\N	30	Family,Game-Show
+tt0042088	tvSeries	Can You Top This	Can You Top This	0	1950	\N	30	Family,Game-Show
+tt0042089	tvSeries	Cavalcade of Bands	Cavalcade of Bands	0	1950	1951	60	Family,Music
+tt0042091	tvSeries	Chance of a Lifetime	Chance of a Lifetime	0	1950	1951	30	Family,Game-Show
+tt0042092	tvSeries	Charlie Wild, Private Detective	Charlie Wild, Private Detective	0	1950	1952	30	Crime,Drama
+tt0042093	tvSeries	The Cisco Kid	The Cisco Kid	0	1950	1956	30	Western
+tt0042094	tvSeries	The Colgate Comedy Hour	The Colgate Comedy Hour	0	1950	1955	60	Comedy,Romance
+tt0042095	tvSeries	The College Bowl	The College Bowl	0	1950	1951	30	Comedy,Family
+tt0042096	tvSeries	Crash Corrigan's Ranch	Crash Corrigan's Ranch	0	1950	\N	30	Family,Music,Western
+tt0042097	tvSeries	Crusader Rabbit	Crusader Rabbit	0	1950	1957	4	Animation,Comedy,Family
+tt0042098	tvSeries	Danger	Danger	0	1950	1955	30	Drama
+tt0042099	tvSeries	Detective's Wife	Detective's Wife	0	1950	\N	30	Comedy
+tt0042100	tvSeries	Dick Tracy	Dick Tracy	0	1950	1952	30	Drama
+tt0042101	tvSeries	Escape	Escape	0	1950	\N	30	Drama
+tt0042102	tvSeries	The Faye Emerson Show	The Faye Emerson Show	0	1949	\N	15	Family,Talk-Show
+tt0042104	tvSeries	The First Hundred Years	The First Hundred Years	0	1950	1952	\N	Drama
+tt0042105	tvSeries	Ford Star Revue	Ford Star Revue	0	1950	\N	60	Comedy,Music
+tt0042106	tvSeries	All Star Revue	Four Star Revue	0	1950	\N	60	Comedy
+tt0042107	tvSeries	The Frank Sinatra Show	The Frank Sinatra Show	0	1950	1952	60	Music
+tt0042108	tvSeries	The Gabby Hayes Show	The Gabby Hayes Show	0	1950	1954	15	Family,Western
+tt0042109	tvSeries	The Garry Moore Show	The Garry Moore Show	0	1950	1958	30	Comedy
+tt0042110	tvSeries	The Gene Autry Show	The Gene Autry Show	0	1950	1955	30	Western
+tt0042111	tvSeries	The George Burns and Gracie Allen Show	The George Burns and Gracie Allen Show	0	1950	1958	30	Comedy
+tt0042112	tvSeries	The Girls	The Girls	0	1950	\N	30	Comedy
+tt0042113	tvSeries	Don Ameche's Musical Playhouse	Holiday Hotel	0	1950	1951	30	Comedy,Music
+tt0042114	tvSeries	The Honeymooners	The Honeymooners	0	1955	1956	30	Comedy,Family
+tt0042115	tvSeries	I Cover Times Square	I Cover Times Square	0	1950	1951	30	Drama
+tt0042116	tvSeries	The Jack Benny Program	The Jack Benny Program	0	1950	1965	30	Comedy
+tt0042117	tvSeries	The Saturday Night Revue with Jack Carter	The Saturday Night Revue with Jack Carter	0	1950	1951	60	Comedy,Music
+tt0042118	tvSeries	Joey Faye's Frolics	Joey Faye's Frolics	0	1950	\N	30	Comedy
+tt0042119	tvSeries	The Ken Murray Show	The Ken Murray Show	0	1950	1953	30	Comedy,Music
+tt0042120	tvSeries	Leave It to Papa	Leave It to Papa	0	1950	\N	\N	Comedy
+tt0042121	tvSeries	Life with Snarky Parker	Life with Snarky Parker	0	1950	\N	\N	Family
+tt0042122	tvSeries	Lights, Camera, Action!	Lights, Camera, Action!	0	1950	\N	30	\N
+tt0042123	tvSeries	Lux Video Theatre	Lux Video Theatre	0	1950	1959	30	Comedy,Drama
+tt0042124	tvSeries	Mama Rosa	Mama Rosa	0	1950	\N	30	Comedy
+tt0042125	tvSeries	The Marshal of Gunsight Pass	The Marshal of Gunsight Pass	0	1950	\N	30	Western
+tt0042126	tvSeries	The Most Important People	The Most Important People	0	1950	1951	15	Music
+tt0042127	tvSeries	Nash Airflyte Theatre	Nash Airflyte Theatre	0	1950	1951	30	Drama
+tt0042128	tvSeries	Old Fashioned Meeting	Old Fashioned Meeting	0	1950	1951	30	\N
+tt0042129	tvSeries	Panhandle Pete and Jennifer	Panhandle Pete and Jennifer	0	1950	\N	15	Family
+tt0042130	tvSeries	Stump the Stars	Pantomime Quiz	0	1947	\N	30	Game-Show
+tt0042131	tvSeries	Party Time at Club Roma	Party Time at Club Roma	0	1950	1951	30	Comedy,Music
+tt0042132	tvSeries	Penthouse Party	Penthouse Party	0	1950	1951	30	Comedy,Music,Talk-Show
+tt0042133	tvSeries	The Peter Lind Hayes Show	The Peter Lind Hayes Show	0	1950	1951	30	Comedy,Music
+tt0042134	tvSeries	The Pinky Lee Show	The Pinky Lee Show	0	1950	\N	30	Comedy,Family,Music
+tt0042135	tvSeries	The Popsicle Parade of Stars	The Popsicle Parade of Stars	0	1950	\N	15	Comedy,Music
+tt0042136	tvSeries	Prize Performance	Prize Performance	0	1950	\N	30	Music
+tt0042137	tvSeries	The Prudential Family Playhouse	The Prudential Family Playhouse	0	1950	1951	60	Drama
+tt0042138	tvSeries	Pulitzer Prize Playhouse	Pulitzer Prize Playhouse	0	1950	1952	60	Drama
+tt0042139	tvSeries	Racket Squad	Racket Squad	0	1950	1953	30	Crime,Drama
+tt0042140	tvSeries	Rhythm Rodeo	Rhythm Rodeo	0	1950	1951	30	Family,Music
+tt0042141	tvSeries	Robert Montgomery Presents	Robert Montgomery Presents	0	1950	1957	60	Drama
+tt0042142	tvSeries	Rocky King, Detective	Inside Detective	0	1950	1954	30	Action,Crime,Drama
+tt0042143	tvSeries	Rootie Kazootie	Rootie Kazootie	0	1952	\N	\N	Family
+tt0042144	tvSeries	Somerset Maugham TV Theatre	Somerset Maugham TV Theatre	0	1950	1951	30	Drama
+tt0042145	tvSeries	Songs for Sale	Songs for Sale	0	1950	1952	60	\N
+tt0042146	tvSeries	The Stage Door	The Stage Door	0	1950	\N	30	\N
+tt0042147	tvSeries	Star Time	Star Time	0	1950	1951	60	Comedy,Family,Music
+tt0042148	tvSeries	Star of the Family	Star of the Family	0	1950	1952	30	Comedy,Music,Talk-Show
+tt0042149	tvSeries	Starlit Time	Starlit Time	0	1950	\N	\N	Comedy,Family,Music
+tt0042150	tvSeries	The Steve Allen Show	The Steve Allen Show	0	1951	1957	60	Comedy
+tt0042151	tvSeries	The Stu Erwin Show	The Stu Erwin Show	0	1950	1955	30	Comedy
+tt0042152	tvSeries	Sure As Fate	Sure As Fate	0	1950	1951	60	Drama
+tt0042153	tvSeries	Susan Raye	Susan Raye	0	1950	\N	15	Family,Music
+tt0042154	tvSeries	Take a Chance	Take a Chance	0	1950	\N	30	Game-Show
+tt0042155	tvSeries	Three's Company	Three's Company	0	1950	\N	15	Music
+tt0042156	tvSeries	Tom Corbett, Space Cadet	Tom Corbett, Space Cadet	0	1950	1955	15	Action,Adventure,Drama
+tt0041038	tvSeries	The Lone Ranger	The Lone Ranger	0	1949	1957	30	Western
+tt0043693	tvEpisode	Julius Caesar	Julius Caesar	0	1951	\N	\N	Drama
+tt0043694	movie	Jungle Manhunt	Jungle Manhunt	0	1951	\N	66	Action,Adventure,Romance
+tt0043695	movie	Tarzan's Peril	Tarzan's Peril	0	1951	\N	78	Action,Adventure,Drama
+tt0043696	movie	Kagirinaki jonetsu	Kagirinaki jonetsu	0	1951	\N	\N	\N
+tt0043697	movie	Kanketsu Sasaki Kojirô: Ganryû-jima kettô	Kanketsu Sasaki Kojirô: Ganryû-jima kettô	0	1951	\N	98	Action,Adventure,Drama
+tt0043698	movie	Perhaps a Gentleman	Kanske en gentleman	0	1950	\N	91	Comedy,Drama
+tt0043699	movie	Carmen Comes Home	Karumen kokyô ni kaeru	0	1951	\N	86	Comedy
+tt0043700	movie	Katie Did It	Katie Did It	0	1950	\N	81	Comedy,Romance
+tt0043701	movie	Dream of a Cossack	Kavalier zolotoy zvezdy	0	1951	\N	95	Drama
+tt0043702	movie	Reeds That Rustle in the Wind	Kaze ni soyogu asi (Kouhen)	0	1951	\N	\N	War
+tt0043703	movie	Kekec	Kekec	0	1951	\N	97	Adventure,Family
+tt0043704	movie	Wedding March	Kekkon koshinkyoku	0	1951	\N	83	Drama
+tt0043705	movie	Kentucky Jubilee	Kentucky Jubilee	0	1951	\N	72	Comedy,Music
+tt0043706	movie	Kesäillan valssi	Kesäillan valssi	0	1951	\N	97	Drama,Music,Romance
+tt0043707	movie	Araki Mataemon: Kettô kagiya no tsuji	Araki Mataemon: Kettô kagiya no tsuji	0	1952	\N	82	Action,Adventure,Drama
+tt0043708	movie	The Kid from Amarillo	The Kid from Amarillo	0	1951	\N	56	Action,Adventure,Music
+tt0043709	movie	Kind Lady	Kind Lady	0	1951	\N	78	Crime,Drama,Thriller
+tt0043710	tvEpisode	The Life and Death of King John	The Life and Death of King John	0	1952	\N	\N	Drama
+tt0043711	movie	King of the Bullwhip	King of the Bullwhip	0	1950	\N	58	Western
+tt0043712	short	A kiskakas gyémánt félkrajcárja	A kiskakas gyémánt félkrajcárja	0	1951	\N	15	Animation,Short
+tt0043713	movie	Koibito	Koibito	0	1951	\N	\N	\N
+tt0043714	movie	Kono hata ni chikau	Kono hata ni chikau	0	1951	\N	\N	Drama
+tt0043715	movie	Kranes konditori	Kranes konditori	0	1951	\N	103	Drama
+tt0043716	movie	Kuisma ja Helinä	Kuisma ja Helinä	0	1951	\N	91	Drama
+tt0043717	movie	Kvinnan bakom allt	Kvinnan bakom allt	0	1951	\N	100	Comedy,Drama
+tt0043718	movie	Königin einer Nacht	Königin einer Nacht	0	1951	\N	95	Music,Romance
+tt0043719	movie	Bikini Baby	Lady Godiva Rides Again	0	1951	\N	90	Comedy
+tt0043720	movie	The Lady Pays Off	The Lady Pays Off	0	1951	\N	80	Comedy,Drama
+tt0043721	movie	The Lady Says No	The Lady Says No	0	1951	\N	80	Comedy
+tt0043722	movie	The Lady and the Bandit	The Lady and the Bandit	0	1951	\N	79	Adventure,Biography,Romance
+tt0043723	movie	The Lady from Texas	The Lady from Texas	0	1951	\N	78	Comedy,Western
+tt0043724	movie	The Lady with a Lamp	The Lady with a Lamp	0	1951	\N	110	Drama,History,War
+tt0043725	movie	The Last Outpost	The Last Outpost	0	1951	\N	89	Western
+tt0043726	movie	Obsessed	The Late Edwina Black	0	1951	\N	78	Drama,Mystery
+tt0043727	movie	Laughter in Paradise	Laughter in Paradise	0	1951	\N	93	Comedy
+tt0043728	movie	The Law and the Lady	The Law and the Lady	0	1951	\N	104	Comedy,Drama,Romance
+tt0043729	movie	Lawless Cowboys	Lawless Cowboys	0	1951	\N	58	Western
+tt0043730	movie	Leave It to the Marines	Leave It to the Marines	0	1951	\N	65	Comedy
+tt0043731	movie	Mistress of Treves	La leggenda di Genoveffa	0	1952	\N	95	Drama
+tt0043732	short	Leghorn Swoggled	Leghorn Swoggled	0	1951	\N	7	Animation,Comedy,Family
+tt0043733	movie	The Lemon Drop Kid	The Lemon Drop Kid	0	1951	\N	91	Comedy,Crime,Music
+tt0043734	short	Let's Go Crazy	Let's Go Crazy	0	1951	\N	32	Comedy,Musical,Short
+tt0043735	movie	Let's Go Navy!	Let's Go Navy!	0	1951	\N	68	Comedy
+tt0043736	movie	Let's Make It Legal	Let's Make It Legal	0	1951	\N	77	Comedy,Drama,Romance
+tt0043737	movie	Desires	Das letzte Rezept	0	1952	\N	97	Drama
+tt0043738	movie	Der letzte Schuß	Der letzte Schuß	0	1951	\N	81	Drama
+tt0043739	movie	Leva på 'Hoppet'	Leva på 'Hoppet'	0	1951	\N	100	Comedy
+tt0043740	movie	Free Escape	Libera uscita	0	1951	\N	90	Comedy
+tt0043741	movie	Licenza premio	Licenza premio	0	1951	\N	91	Comedy
+tt0043742	movie	Life in Her Hands	Life in Her Hands	0	1951	\N	58	Drama
+tt0043743	movie	The Light Touch	The Light Touch	0	1951	\N	93	Crime,Drama
+tt0043744	movie	Lightning Strikes Twice	Lightning Strikes Twice	0	1951	\N	91	Crime,Drama,Film-Noir
+tt0043745	short	Lion Down	Lion Down	0	1951	\N	7	Animation,Comedy,Family
+tt0043746	movie	The Lion Hunters	The Lion Hunters	0	1951	\N	75	Adventure
+tt0043747	movie	Little Big Horn	Little Big Horn	0	1951	\N	86	Western
+tt0043748	movie	Little Egypt	Little Egypt	0	1951	\N	82	Comedy,Drama
+tt0043750	movie	Lola, the Coalgirl	Lola, la piconera	0	1952	\N	89	Drama
+tt0043751	movie	Lone Star	Lone Star	0	1952	\N	94	Action,Adventure,History
+tt0989125	tvSeries	BBC Sunday-Night Theatre	BBC Sunday-Night Theatre	0	1950	1959	\N	Drama
